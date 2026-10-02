@@ -22,7 +22,7 @@ All screenshots are inside the `images/` folder.
 ### 1. Hello Program
 Printing a simple message on the screen.
 
-![Simple hello](images/simple_hello.png)
+![Simple hello](output_pics/without_std.png)
 
 ### 2. Hello Without `using namespace std`
 Using `std::cout` directly instead of the `std` namespace.
