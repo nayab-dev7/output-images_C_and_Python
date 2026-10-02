@@ -27,72 +27,72 @@ Printing a simple message on the screen.
 ### 2. Hello Without `using namespace std`
 Using `std::cout` directly instead of the `std` namespace.
 
-![Without std](images/without_std.png)
+![Without std](output_pics/without_std.png)
 
 ### 3. Sum of Two Numbers
 Adding two integers and printing the result.
 
-![Simple sum](images/simple_sum.png)
+![Simple sum](output_pics/simple_sum.png)
 
 ### 4. Arithmetic Operators
 Sum, minus, multiply and divide on two numbers. Division uses `(float)` casting to get a decimal answer (`0.95`).
 
-![Operators](images/oprators.png)
+![Operators](output_pics/oprators.png)
 
 ### 5. Floating Point Numbers
 Using `float` and `double` together.
 
-![Floating point](images/floating.png)
+![Floating point](output_pics/floating.png)
 
 ### 6. Full Practice Code
 All the practice code from the above topics in one file.
 
-![Full code](images/full_code.png)
+![Full code](output_pics/full_code.png)
 
 ### 7. Odd and Even Numbers Using a `for` Loop
 Even numbers (start from 0) and odd numbers (start from 1), both using `i += 2`.
 
-![Even loop](images/odd_even_loop.png)
+![Even loop](output_pics/odd_even_loop.png)
 
-![Odd loop](images/odd_even2loop.png)
+![Odd loop](output_pics/odd_even2loop.png)
 
 ### 8. `if` / `else` Statement
 Voting eligibility check based on age.
 
-![if else](images/Screenshot_2026-09-11_223111.png)
+![if else](output_pics/Screenshot_2026-09-11_223111.png)
 
 ### 9. `while` Loop
 Printing the index number from 0 to 33.
 
-![while loop](images/Screenshot_2026-09-11_230751.png)
+![while loop](output_pics/Screenshot_2026-09-11_230751.png)
 
 ### 10. `switch` Statement
 Checking age with `case 12`, `case 18` and `default`.
 
-![switch](images/Screenshot_2026-09-11_232105.png)
+![switch](output_pics/Screenshot_2026-09-11_232105.png)
 
 ### 11. Same Program in C++ and Python
 Sum of two numbers written in both languages.
 
 C++:
 
-![sum cpp](images/sum_cpp.png)
+![sum cpp](output_pics/sum_cpp.png)
 
 Python:
 
-![sum py](images/sum_py.png)
+![sum py](output_pics/sum_py.png)
 
 ## Assignment Questions
 
 ### Question 1: Simple Calculator (Bitwise Operations)
 Take two numbers from the user and perform bitwise AND, OR and XOR.
 
-![Question 1](images/question_1.png)
+![Question 1](output_pics/question_1.png)
 
 ### Question 2: Even Numbers Using a `for` Loop
 Print even numbers up to 100 using a `for` loop without `if`/`else`.
 
-![Question 2](images/question2.png)
+![Question 2](output_pics/question2.png)
 
 ## Folder Structure
 
