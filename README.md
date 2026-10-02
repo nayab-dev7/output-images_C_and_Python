@@ -17,7 +17,7 @@ This repository is updated regularly as I learn new topics.
 
 ## Outputs
 
-All screenshots are inside the `images/` folder.
+All screenshots are inside the `output_pics/` folder.
 
 ### 1. Hello Program
 Printing a simple message on the screen.
